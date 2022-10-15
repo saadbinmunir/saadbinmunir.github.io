@@ -6,10 +6,7 @@
 * [calendri-lib](https://pypi.org/project/calendric-lib/)
 * [movecolumn](https://pypi.org/project/movecolumn/)
 
-## Paper and Codes
+## Projects
 
-## Active Learning with Tensorflow/Keras
+## Publications
 
-## Reinforcement Learning
-
-## Graph Representation Learning
