@@ -1,5 +1,10 @@
 # Welcome to Saad Bin Munir's profile
 
+## Certifications
+<a href="https://www.credly.com/badges/c92b0779-3d61-4140-8cd5-27f948bdfc9c/public_url">
+<img src="https://user-images.githubusercontent.com/96207544/219006049-fa9cdb42-9545-46ad-8dd1-f02c73e7fd7f.png"/>
+</a>
+
 ## Kaggle Challenges
 
 ## Python Packages
