@@ -16,4 +16,8 @@
 <img src="https://user-images.githubusercontent.com/96207544/219008115-460eb7e5-167d-4ca4-8c38-dbea80ae8f54.png"/>
 </a>
 
+<a href="https://www.credly.com/badges/c92b0779-3d61-4140-8cd5-27f948bdfc9c/public_url">
+<img src="https://user-images.githubusercontent.com/96207544/219008797-0636b417-f118-4039-8465-0ddc8f43cf65.png"/>
+</a>
+
 
