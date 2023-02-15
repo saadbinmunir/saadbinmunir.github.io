@@ -2,7 +2,7 @@
 
 ## Certifications
 <a href="https://www.credly.com/badges/c92b0779-3d61-4140-8cd5-27f948bdfc9c/public_url">
-<img src="https://user-images.githubusercontent.com/96207544/219006049-fa9cdb42-9545-46ad-8dd1-f02c73e7fd7f.png"/>
+<img src="https://user-images.githubusercontent.com/96207544/219006880-3c71fb3a-6dd2-445b-9c76-875d0e01e3d5.png"/>
 </a>
 
 ## Kaggle Challenges
