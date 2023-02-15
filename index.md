@@ -1,10 +1,5 @@
 # Welcome to Saad Bin Munir's profile
 
-## Certifications
-<a href="https://www.credly.com/badges/c92b0779-3d61-4140-8cd5-27f948bdfc9c/public_url">
-<img src="https://user-images.githubusercontent.com/96207544/219007359-1ee58e9b-580d-4017-8502-be284e2a6339.png"/>
-</a>
-
 ## Kaggle Challenges
 
 ## Python Packages
@@ -15,5 +10,10 @@
 
 ## Publications
 * [Analysis Photovoltaic System in Relation to Tracking and Non-Tracking System](https://www.researchgate.net/publication/349319190_Analysis_Photovoltaic_System_in_Relation_to_Tracking_and_Non-Tracking_System)
+
+## Certifications
+<a href="https://www.credly.com/badges/c92b0779-3d61-4140-8cd5-27f948bdfc9c/public_url">
+<img src="https://user-images.githubusercontent.com/96207544/219008115-460eb7e5-167d-4ca4-8c38-dbea80ae8f54.png"/>
+</a>
 
 
