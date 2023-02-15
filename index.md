@@ -13,10 +13,6 @@
 
 ## Certifications
 <a href="https://www.credly.com/badges/c92b0779-3d61-4140-8cd5-27f948bdfc9c/public_url">
-<img src="https://user-images.githubusercontent.com/96207544/219009640-42f8bc2a-d590-4d5d-ae78-3e3fb7d370fa.png"/>
-</a>
-
-<a href="https://www.credly.com/badges/c92b0779-3d61-4140-8cd5-27f948bdfc9c/public_url">
 <img src="https://user-images.githubusercontent.com/96207544/219010552-9e13ba73-6606-47a4-860c-5e7c1b6dfa5f.png"/>
 </a>
 
